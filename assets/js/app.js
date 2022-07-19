@@ -59,3 +59,5 @@ sr.reveal('.portfolio-card', {interval: 500})
 sr.reveal('.form-container, .footer' , {
     origin: 'top'
 });
+
+/* end xd */
